@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+beautifulsoup4
+requests
+textstat
+joblib
+wordcloud
