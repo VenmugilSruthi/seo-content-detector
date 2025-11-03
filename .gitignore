@@ -1,1 +1,5 @@
+# File with secrets
+data.csv
 
+# File for new, safe keys
+.env
